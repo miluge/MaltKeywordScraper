@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MaltKeywordScraper
 A small Malt.com keyword scraper to check my ranking
 =======
@@ -166,4 +165,3 @@ If `auth.json` becomes invalid, delete it and run the scraper again to re-authen
 ## Contact
 
 For questions or issues, please open an issue on the repository.
->>>>>>> 28469a4 (first setup)
