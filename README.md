@@ -1,6 +1,3 @@
-# MaltKeywordScraper
-A small Malt.com keyword scraper to check my ranking
-=======
 # Malt Keyword Scraper
 
 Automated scraper that extracts keyword analytics data from Malt freelancer profiles and syncs the data to Google Sheets for analysis and tracking.
